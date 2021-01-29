@@ -1,8 +1,8 @@
 #
 ##
-### Hi there 👋
+### 
 
-![Catimage](https://i.pinimg.com/564x/a4/b1/fe/a4b1fe6290a0071a75232ffdcf9bcfc1.jpg)
+![Welcome](https://i1.wp.com/educatorthemes.com/wp-content/uploads/2019/06/welcome-banner-confetti-dots.jpg?fit=2880%2C864&ssl=1)
 
 <!--
 **sbweins/sbweins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
