@@ -4,6 +4,8 @@
 
 ![Welcome](https://i1.wp.com/educatorthemes.com/wp-content/uploads/2019/06/welcome-banner-confetti-dots.jpg?fit=2880%2C864&ssl=1)
 
+Hi! I am currently in the Pursuit developer fellowship program. You can see some of my projects here!
+
 <!--
 **sbweins/sbweins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
